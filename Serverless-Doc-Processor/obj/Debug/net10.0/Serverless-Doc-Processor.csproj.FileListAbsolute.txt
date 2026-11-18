@@ -1,0 +1,6 @@
+D:\Training\Asim-Shah-Gihub\Serverless\Serverless-Document-Processor-Azure-Functions-\Serverless-Doc-Processor\obj\Debug\net10.0\Serverless-Doc-Processor.csproj.AssemblyReference.cache
+D:\Training\Asim-Shah-Gihub\Serverless\Serverless-Document-Processor-Azure-Functions-\Serverless-Doc-Processor\obj\Debug\net10.0\Serverless-Doc-Processor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Asim-Shah-Gihub\Serverless\Serverless-Document-Processor-Azure-Functions-\Serverless-Doc-Processor\obj\Debug\net10.0\Serverless-Doc-Processor.AssemblyInfoInputs.cache
+D:\Training\Asim-Shah-Gihub\Serverless\Serverless-Document-Processor-Azure-Functions-\Serverless-Doc-Processor\obj\Debug\net10.0\Serverless-Doc-Processor.AssemblyInfo.cs
+D:\Training\Asim-Shah-Gihub\Serverless\Serverless-Document-Processor-Azure-Functions-\Serverless-Doc-Processor\obj\Debug\net10.0\Serverless-Doc-Processor.csproj.CoreCompileInputs.cache
+D:\Training\Asim-Shah-Gihub\Serverless\Serverless-Document-Processor-Azure-Functions-\Serverless-Doc-Processor\obj\Debug\net10.0\Serverless-Doc-Processor.sourcelink.json
